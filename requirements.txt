@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+rapidfuzz
+anyascii
+datasketch
+pyarrow
+tqdm
